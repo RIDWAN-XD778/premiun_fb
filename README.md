@@ -1,4 +1,4 @@
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=SELAMAT+DATANG+BANG+DI+GITHUB+SAYA+RIDWAN+)
 <h3 align="left">Cara Install Script :</h3>
 
 - Download Apk Termuxnya Disini Biar Engga Eror <a href="https://f-droid.org/repo/com.termux_117.apk">Klik Disini</a>
@@ -30,9 +30,9 @@
 - Permanent + Open Source : 150K
 <h3 align="left">🙉MAHAL BANGET BANG :</h3>
 <h3 align="left">SCRIPT GG CUY : </h3<
-- buy lisem di https://wa.me/6283862287464
 
-<h3 align="left">BUY LISENSI DI SINI:</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=UNTUK+BUY+LISENSI+BISA+CHET+NOMOR+WHATSAPP+DI+BAWAH+INI+👇....+)
 
 - 083862287464 whatsapp
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=SELAMAT+MENCOBA+SCRIPT+PREMIUM🌟✨🌟🙈🙉....+)
