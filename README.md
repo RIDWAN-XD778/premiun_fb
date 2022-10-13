@@ -16,7 +16,7 @@
             
 <h3 align="left">Cara Menjalankan Script :</h3>
        
-       $ git clone https://github.com/RIDWAN-XD778/premium_fb
+       $ git clone https://github.com/RIDWAN-XD778/premiun_fb
        $ cd wan
        $ git pull
        $ python wan
